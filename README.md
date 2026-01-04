@@ -1,2 +1,2 @@
 # tpetts.github.io
-Resume Site
+<a href="https://tiapetts.github.io/tpetts.github.io/">Resume Site</a>
